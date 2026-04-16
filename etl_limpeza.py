@@ -1,8 +1,3 @@
-"""
-ETL e Pré-processamento — Books to Scrape
-Execute APÓS o scraper.py ter gerado o arquivo books_raw.csv
-"""
-
 import pandas as pd
 import numpy as np
 

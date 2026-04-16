@@ -1,8 +1,3 @@
-"""
-Web Scraping — Books to Scrape (books.toscrape.com)
-v2 — com retry automático e salvamento de progresso parcial
-"""
-
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
